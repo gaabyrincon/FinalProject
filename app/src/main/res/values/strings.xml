@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="back_button">Atrás</string>
+    
+    <string name="ordenar_sneakers">Ordenar Sneaker(s)</string>
+    <string name="sneaker_price">Precio por sneaker</string>
+    
+    <string name="red">Rojo</string>
+    <string name="green">Verde</string>
+    <string name="blue">Azul</string>
+    <string name="white">Blanco</string>
+    <string name="black">Negro</string>
+
+    <string name="sneaker_tag">Sneakers</string>
+
+    <string name="subtotal">Subtotal: $ %s</string>
+    <string name="cancel">Cancelar</string>
+    <string name="next">Siguiente</string>
+
+    <string name="selected_color">Color</string>
+    <string name="newOrder">Enviar nueva orden</string>
+    <string name="quantity">Cantidad</string>
+    <string name="share_info">Compartir a otra app</string>
+    <string name="send_order">Enviar orden</string>
+    <string name="thanks">¡Gracias por tu compra!</string>
+    <string name="start_over">Volver al inicio</string>
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</resources>
